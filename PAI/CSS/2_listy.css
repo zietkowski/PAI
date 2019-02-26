@@ -1,0 +1,7 @@
+body{
+	background-color: skyblue;
+}
+#ikona{
+	margin-left: 250px;
+	list-style-image: url(../img/Polska_flag_map.png);
+}
